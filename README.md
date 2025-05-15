@@ -66,7 +66,7 @@ Health Systems Design | EHR Optimization | Data Cleaning & Reporting | Project M
 
 📧 Email: anavkar.a@northeastern.edu  
 🔗 LinkedIn: [linkedin.com/in/anushka-anavkar-a88a73174](https://www.linkedin.com/in/anushka-anavkar-a88a73174)  
-🌐 Portfolio (coming soon)
+
 
 ---
 
