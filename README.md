@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Dr. Anushka Sunil Anavkar
 
-🎓 Master’s Student in Health Informatics @ Northeastern University (Bouvé College of Health Sciences)  
-💡 Ex-Clinician | Clinical Data Analyst | Health Tech Enthusiast  
+🎓 Master’s Student in Health Informatics @ Northeastern University (Bouvé College of Health Sciences - Khoury College of Computer Sciences)  
+💡 Project Manager | Data Analyst | Former Clinicians | Health Tech Enthusiast  
 🌍 Passionate about improving hospital workflows, oncology care, and rural health access through data and technology
 
 ---
 
 ## 💼 Professional Summary
 
-With a unique blend of clinical experience and technical expertise, I specialize in healthcare data analytics, hospital operations, and health informatics solutions. I’ve worked on projects that span clinical trials, claims processing, hospital database design, and mental health trend analysis—transforming complex health data into actionable insights.
+Analytics Project Manager with a clinical foundation and deep expertise in healthcare data, EHR systems, and hospital operations. Proven track record delivering analytics initiatives across cardiovascular, oncology, and revenue cycle domains — translating complex clinical data into measurable operational outcomes. Adept at leading cross-functional teams, managing stakeholder relationships at the executive level, and driving adoption of data-driven solutions in complex healthcare environments. Currently advancing expertise in healthcare interoperability and FHIR-based systems at Northeastern University.
 
 ---
 
