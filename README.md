@@ -14,23 +14,33 @@ With a unique blend of clinical experience and technical expertise, I specialize
 
 ## 🔬 Projects & Interests
 
-### 🧬 Clinical Trial Data Analysis (SQL, Oncology Data, Dashboards)
-- Optimized datasets from over 2,000 oncology patient records (DLBCL, NSCLC, Breast Cancer)
-- Applied SQL and NGS data mapping to support CAR-T and immunotherapy protocols
-- Built visual dashboards for project decision support
+🔬 Projects & Interests
+🤖 Machine Learning for Clinical Decision Support (Python, R, Epic)
 
-### 🏥 Hospital Referral Management System (SQL Project)
-- Designed an SQL-based system to streamline referrals between PCPs and specialists
-- Reduced patient wait times and improved coordination across care teams
+Developed predictive models using Random Forest, XGBoost, and SVM on 200,000+ cardiovascular patient records to prioritize NSTEMI transfers for Cath Lab intervention
+Analyzed 500K+ cardiology records using Epic Clarity SQL to support length-of-stay reduction and transfer time optimization
+Reduced transfer times from 5 hours to 3.5 hours through data-driven protocol recommendations — contributing to $200K in collaborative cost savings
 
-### 📊 Substance Use & Mental Health Analysis (R & Tableau)
-- Conducted multi-variate analysis on 5,000+ participants across age groups
-- Compared psychological outcomes based on substance use
-- Created interactive dashboards for stakeholders
+🏥 ClaimBridge — Prior Authorization Integration Framework (FHIR, Python, CDS Hooks)
 
-### 📁 Administrative & Policy Documentation
-- Led clinic-level SOP documentation and EHR-based billing optimization
-- Oversaw insurance claim workflows, HIPAA compliance, and timekeeping operations
+Designed and prototyped a real-time middleware framework integrating payer authorization rules into provider EHR workflows at the point of care
+Built on HL7 FHIR R4, Da Vinci CRD/DTR/PAS implementation guides, CDS Hooks, and SMART on FHIR
+Developed a rules engine, X12 278 translation layer, and nightly bulk data sync to handle both modern FHIR-enabled payers and legacy EDI systems
+Directly addresses the CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F) compliance timeline through 2027
+
+🧬 Oncology Registry Data Management (SQL, REDCap, Python)
+
+Performed clinical data management across DLBCL, NSCLC, and breast cancer registries
+Designed REDCap dashboards to monitor data quality, reducing abstraction errors by 20% and achieving 93%+ accuracy aligned with clinical protocols
+
+📊 Hospital Referral Management System (SQL)
+
+Designed an SQL-based patient referral system to streamline coordination between PCPs and specialists using joins, aggregates, and ETL on DRG claims data
+
+📋 Substance Use and Mental Health Analysis (R, Tableau)
+
+Conducted multivariate analysis on 5,000+ participants examining psychological outcomes by substance use patterns
+Built interactive Tableau dashboards for stakeholder reporting
 
 ---
 
